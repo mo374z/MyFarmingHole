@@ -49,4 +49,8 @@ Most problems stem from skipping or misunderstanding important steps.
 
 ### ⚠️ Troubleshooting
 
+Make shure to keep the folder structure as intended.
+
+more to come...
+
 
