@@ -26,3 +26,27 @@ Translated with www.DeepL.com/Translator (free version)
 
 # Installation
 
+Please take the time to **read the following instructions carefully.**
+Most problems stem from skipping or misunderstanding important steps.
+
+### ☕ Windows & macOS
+
+1. Visit https://adoptium.net
+
+2. Click "Latest release" to download Java installer
+
+3. Wait for download to finish
+
+4. Open the `Downloads` folder (via Windows Explorer or Finder/Spotlight, respectively) and double-click `OpenJDK...` to start Java installer
+
+5. Click Next, Next, Install, Finish
+
+6. Download the whole GitHub repository and save it to any place you want on your system.
+
+7. Open the corresponding folder and double-click `MyFarmingHole.jar` to start FarmingHole
+
+**If FarmingHole fails to start**, continue with ⚠️ Troubleshooting 
+
+### ⚠️ Troubleshooting
+
+
