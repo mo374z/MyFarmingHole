@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyFarmingHoleApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyFarmingHoleApp</output-path>
+    <root id="root" />
+  </artifact>
+</component>
