@@ -10,9 +10,13 @@ Media Sources:
 
 Songs:
 https://www.youtube.com/watch?v=tihJ2cX6NEk - KuhMuh Pasture, Mario Kart Wii
+
 https://www.youtube.com/watch?v=zV6uFskwCgU - Luigi's track, Mario Kart Wii
+
 https://www.youtube.com/watch?v=LwP4HL-inJs - He's a Pirate - Pirates of the Caribbean
+
 https://www.youtube.com/watch?v=yWHrYNP6j4k - The Kid Laroi, Justin Bieber - Stay
+
 
 Graphics: 
 The graphics used in this game were independently created inspired by the computer games Stardew Valley and Minecraft.
