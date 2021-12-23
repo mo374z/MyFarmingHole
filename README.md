@@ -51,6 +51,10 @@ Most problems stem from skipping or misunderstanding important steps.
 
 Make shure to keep the folder structure as intended.
 
+Try to start the program using the command line:
+  1. navigate to the directory of your .jar using: `cd C:/path/to/your/MyFarmingHole.jar`
+  2. execute using the command: `java -jar MyFarmingHole.jar`
+
 more to come...
 
 
