@@ -6,6 +6,8 @@ The place of action is the colorful, lively FarmingHole Island. Here the player 
 
 The goal of the game is to earn enough money to purchase the bridge located at the southern end of the island to rebuild the connection to the mainland.
 
+The game was developed as a student project at DHBW Ravensburg together with [@timo282] (https://github.com/timo282), [@PascalKnoll] (https://github.com/PascalKnoll) and [@Nikl3s] (https://github.com/Nikl3s).
+
 ## Media Sources:
 
 Songs:
